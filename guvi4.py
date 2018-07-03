@@ -1,4 +1,4 @@
-﻿u=raw_input()
+u=raw_input()
 v=raw_input()
 w=raw_input()
 a=int(u)
