@@ -1,4 +1,4 @@
-﻿u=raw_input()
+u=raw_input()
 v=raw_input()
 w=raw_input()
 a=int(u)
@@ -11,4 +11,4 @@ elif(b>=a) and (b>=c):
 elif(c>=a) and (c>=b):	
     print c
 else:
-   print("no it is not a alphabet")
+   print("invalid")
