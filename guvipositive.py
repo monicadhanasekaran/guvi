@@ -1,4 +1,4 @@
-﻿a=raw_input()
+a=raw_input()
 b=int(a)
 if b>=0:
  print("positive")
