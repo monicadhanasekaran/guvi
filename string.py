@@ -1,0 +1,1 @@
+print('Pawel'[1:4])
